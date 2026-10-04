@@ -42,7 +42,7 @@ H3 单段上限约 7 秒，本包把它扩展到 **15 ~ 35 秒**，并且成片*
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/<你的账号>/ComfyUI-SW-H3Segments.git
+git clone https://github.com/weiwei141319/ComfyUI-SW-H3Segments.git
 ```
 
 重启 ComfyUI 即可，无 pip 依赖、无需额外模型。

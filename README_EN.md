@@ -21,7 +21,7 @@ H3 tops out at roughly 7 seconds per shot. This pack pushes that to **15 – 35 
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/<your-username>/ComfyUI-SW-H3Segments.git
+git clone https://github.com/weiwei141319/ComfyUI-SW-H3Segments.git
 ```
 
 Restart ComfyUI. No pip packages, no extra downloads.
