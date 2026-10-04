@@ -406,4 +406,4 @@ comfy_extras/nodes_minimax_h3.py:43  video_latent_t = ((f-5)//17)*5 + 2
 
 ## 许可证
 
-MIT
+保留所有权利。未经作者书面许可，不得复制、分发或用于商业用途。

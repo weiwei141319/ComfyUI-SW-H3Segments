@@ -325,4 +325,4 @@ The H3 video VAE decodes chunked along time (`comfy_has_chunked_io=True`, 5-toke
 
 ## License
 
-MIT
+All rights reserved. No copying, redistribution, or commercial use without the author's written permission.
